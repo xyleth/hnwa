@@ -1,3 +1,25 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.your-logo {
+    padding: 1rem;
+    
+    a {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    
+    img {
+      height: 40px; // Adjust as needed
+      display: block; // Remove any extra space below the image
+    }
+    
+    .logo-text {
+      font-size: 1.75rem; // Match page title size
+      font-weight: bold;
+      line-height: 1; // Ensure text doesn't have extra line height
+      font-family: var(--titleFont); // Use the same font as page title
+      color: var(--dark); // Match page title color
+    }
+  }
