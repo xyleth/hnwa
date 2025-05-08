@@ -4,7 +4,7 @@ draft: false
 tags:
   - PCs
 ---
- 
+![[Henrietta _Hettie_ Cavendish-2025-05-08-yxzi55.webp]] 
 
 
 - Runs Once upon a Scone, a local Cafe from which she provides the baked goods for HWNA meetings.
