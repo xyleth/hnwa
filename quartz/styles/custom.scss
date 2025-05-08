@@ -11,15 +11,17 @@
     }
     
     img {
-      height: 40px; // Adjust as needed
-      display: block; // Remove any extra space below the image
+      height: 40px;
+      width: auto;
+      object-fit: contain;
+      display: block;
     }
     
     .logo-text {
-      font-size: 1.75rem; // Match page title size
+      font-size: 1.75rem;
       font-weight: bold;
-      line-height: 1; // Ensure text doesn't have extra line height
-      font-family: var(--titleFont); // Use the same font as page title
-      color: var(--dark); // Match page title color
+      line-height: 1;
+      font-family: var(--titleFont);
+      color: var(--dark);
     }
   }
