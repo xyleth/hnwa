@@ -1,3 +1,12 @@
+---
+title: Aubrey
+draft: false
+tags:
+  - PCs
+---
+ 
+
+
 The Great-Great-Grandson of [[Augustus - Gothic PC]], the current Lord Fitzroy-Hamilton after his Father died defeating a monster.
 
 Here's a character summary:

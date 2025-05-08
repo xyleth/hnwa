@@ -1,3 +1,12 @@
+---
+title: Hettie Cavendish
+draft: false
+tags:
+  - PCs
+---
+ 
+
+
 - Runs Once upon a Scone, a local Cafe from which she provides the baked goods for HWNA meetings.
 - Has a pet mouse Herbert, who is clearly her Familiar.
 - Is obviously a witch

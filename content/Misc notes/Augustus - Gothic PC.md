@@ -1,3 +1,10 @@
+---
+title: Augustus - Gothic PC
+draft: false
+tags:
+  - backstory
+---
+ 
 ![[Augustus - Gothic PC-2025-05-08-g9b99u.webp]]
 Here's the updated character concept:
 

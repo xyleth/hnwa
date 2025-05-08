@@ -1,3 +1,12 @@
+---
+title: Sigrund Scarsguard
+draft: false
+tags:
+  - PCs
+---
+ 
+
+
 - Descendent of Vikings
 - A mountain of a man
 - Does odd jobs for hire, like bouncer 
