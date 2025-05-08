@@ -36,6 +36,7 @@ Here's a character summary:
 
 **Tone:** Comedic elements come from the contrast between supernatural needs and aristocratic pretensions, attempting to maintain dignity while navigating modern life with fae limitations. Think Buffy/Jonathan Creek level of supernatural comedy rather than slapstick.
 
+<!-- publish: exclude -->
 **Lord Auberon Maelgwyn Peregrine Silverthorne Fitzroy-Hamilton**
 
 Breaking it down:
@@ -52,3 +53,4 @@ The "MILE-gwin PEAR-eh-grin" creates that lovely bouncing cadence in the middle 
 He'd be absolutely mortified if anyone learned his full name, believing it gives power over him in the fae tradition. He insists on "Aubrey" or at most "Lord Auberon" in formal settings. The full name would only appear on ancient family documents or if someone did some serious digging into the family records.
 
 The name also has that wonderful aristocratic quality where it just keeps going, which adds to both the comedy and the sense of ancient lineage. Anyone who discovers it might assume the length is just aristocratic pretension, not realizing each name has mystical significance!
+<!-- publish: end -->

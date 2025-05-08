@@ -72,6 +72,12 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.SectionFilter({
+        includeByDefault: true,
+        includeMarker: "<!-- publish: include -->",
+        excludeMarker: "<!-- publish: exclude -->",
+        removeMarkers: true,
+      }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
