@@ -3,6 +3,7 @@ title: Bentley Raynard
 draft: false
 tags:
   - NPCs
+  - Ep1
 ---
  
 The son of a local bank magnate, wealthy and obnoxious.  The victim of the opening killing, now deceased.

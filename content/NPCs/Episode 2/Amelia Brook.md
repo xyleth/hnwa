@@ -1,8 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Amelia Brook
 draft: false
 tags:
-  - 
+  - NPCs
+  - Ep2
 ---
  
 A local 15yr old girl with a good reputation.

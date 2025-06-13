@@ -1,8 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Celia Jones
 draft: false
 tags:
-  - 
+  - NPCs
+  - Ep2
 ---
  
 Aunt of [[Amelia Brook]] and sister of [[Jane Brook]].  Reported missing by Amelia.

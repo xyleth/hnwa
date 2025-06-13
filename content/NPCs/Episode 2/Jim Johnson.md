@@ -1,8 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Jim Johnson
 draft: false
 tags:
-  - 
+  - NPCs
+  - Ep2
 ---
 
 The Son of James Johnson, step-brother to [[John Johnson]].

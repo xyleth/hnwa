@@ -1,8 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Rosie Johnson
 draft: false
 tags:
-  - 
+  - NPCs
+  - Ep2
 ---
 
 Mother of [[John Johnson]], step-mother to [[Jim Johnson]] and second wife of James Johnson.

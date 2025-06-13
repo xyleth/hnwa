@@ -1,8 +1,9 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: The Puck
 draft: false
 tags:
-  - 
+  - Adversaries
+  - Ep1
 ---
  
 ![[The Puck-2025-05-16-5hiarq.webp]]
